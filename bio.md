@@ -5,3 +5,4 @@ Interests: Womanizing, Malarky
 
 #Programming Background
 Accomplishments: Reprogrammed both microwave and oven for daylight savings time
+Previous education: Watched the Matrix
