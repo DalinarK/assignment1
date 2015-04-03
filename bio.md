@@ -7,3 +7,6 @@ Phobias: Women, Mahem, Cars
 #Programming Background
 Accomplishments: Reprogrammed both microwave and oven for daylight savings time
 Previous education: Watched the Matrix
+
+#Goals
+Create Skynet
